@@ -1,0 +1,266 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orangish"
+	android:weightSum="1">
+
+    <Spinner
+	    android:id="@+id/muses_spinner"
+	    android:layout_width="32dp"
+	    android:layout_height="10dp"
+		android:textColor="#ffffff"
+		android:layout_gravity="right" />
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="35dp">
+
+		<Button
+            android:id="@+id/refresh"
+            android:layout_width="90dp"
+            android:layout_height="30dp"
+            android:text="@string/refresh"
+            android:background="#f5f5f5"
+			android:layout_alignParentTop="true"
+			android:layout_alignParentStart="true"
+			android:layout_marginStart="12dp" />
+
+		<Button
+	        android:id="@+id/connect"
+	        android:layout_width="90dp"
+	        android:layout_height="30dp"
+	        android:text="@string/connect"
+			android:background="#f5f5f5"
+			android:layout_alignParentTop="true"
+			android:layout_toEndOf="@+id/refresh"
+			android:layout_marginStart="12dp"/>
+
+		<Button
+	        android:id="@+id/disconnect"
+	        android:layout_width="90dp"
+	        android:layout_height="30dp"
+	        android:text="@string/disconnect"
+			android:background="#f5f5f5"
+			android:layout_alignParentTop="true"
+			android:layout_toEndOf="@+id/connect"
+			android:layout_marginStart="12dp"/>
+
+		<Button
+            android:id="@+id/pause"
+			android:layout_width="50dp"
+			android:layout_height="30dp"
+            android:text="@string/pause"
+			android:background="#f5f5f5"
+			android:layout_alignParentTop="true"
+			android:layout_toEndOf="@+id/disconnect"
+			android:layout_marginStart="12dp"
+            android:layout_marginEnd="10dp"/>
+	</RelativeLayout>
+
+	<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="26dp">
+
+        <TextView
+               android:layout_width="156dp"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="@string/status"
+            android:id="@+id/textView3"
+			android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/con_status"
+               android:layout_width="182dp"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="@string/undefined"
+            android:layout_gravity="right"
+			android:textColor="#ffffff"
+			android:textIsSelectable="true"
+			android:layout_centerVertical="true"
+			android:layout_toEndOf="@+id/textView3" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:textSize="18dp"
+        android:text="@string/eeg"
+		android:textColor="#ffffff"
+		android:layout_gravity="center_horizontal" />
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+		android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/eeg_tp9"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:textSize="16dp"
+	        android:text="@string/init_val"
+			android:textColor="#ffffff"
+			android:layout_gravity="center_vertical"
+			android:textAlignment="center" />
+        <TextView
+            android:id="@+id/eeg_fp1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:textSize="16dp"
+	        android:text="@string/init_val"
+			android:textColor="#ffffff"
+			android:layout_gravity="center_vertical"
+			android:textAlignment="center" />
+        <TextView
+            android:id="@+id/eeg_fp2"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:textSize="16dp"
+	        android:text="@string/init_val"
+			android:textColor="#ffffff"
+			android:layout_gravity="center_vertical"
+			android:textAlignment="center" />
+        <TextView
+            android:id="@+id/eeg_tp10"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:textSize="16dp"
+	        android:text="@string/init_val"
+			android:textColor="#ffffff"
+			android:layout_gravity="center_vertical"
+			android:textAlignment="center" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ap="http://schemas.android.com/apk/res-auto"
+
+        android:layout_width="match_parent"
+        android:layout_height="208dp">
+
+        <com.androidplot.xy.XYPlot
+
+            android:id="@+id/dynamicXYPlot"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            androidplot.renderMode="use_background_thread"
+            ap:label="Brain Activity"
+            ap:domainLabel="Time"
+            ap:rangeLabel="Amplitude"
+            ap:legendTextSize="15sp"
+            ap:legendIconHeight="15dp"
+            ap:legendIconWidth="15dp"
+            ap:legendHeight="25dp"
+            ap:legendAnchorPosition="right_bottom"
+			android:background="#f5f5f5"
+			android:backgroundTint="#f5f5f5"
+			android:backgroundTintMode="screen" />
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="20dp"
+		android:layout_weight="0.49"></LinearLayout>
+
+	<TextView
+	   		android:layout_width="wrap_content"
+	    	android:layout_height="38dp"
+		android:textSize="18dp"
+	    	android:text="@string/muse_elem_alpha"
+			 android:textColor="#ffffff"
+		android:layout_gravity="center_horizontal" />
+   		<LinearLayout
+        	android:layout_width="match_parent"
+        	android:layout_height="34dp"
+			android:orientation="horizontal" >
+	        <TextView
+	            android:id="@+id/elem1"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:textSize="16sp"
+		        android:text="@string/init_val"
+				android:textColor="#ffffff" />
+	        <TextView
+	            android:id="@+id/elem2"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:textSize="16sp"
+		        android:text="@string/init_val"
+				android:textColor="#ffffff" />
+	        <TextView
+	            android:id="@+id/elem3"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:textSize="16sp"
+		        android:text="@string/init_val"
+				android:textColor="#ffffff" />
+	        <TextView
+	            android:id="@+id/elem4"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:textSize="16sp"
+		        android:text="@string/init_val"
+				android:textColor="#ffffff" />
+	    </LinearLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="22dp"
+		android:layout_weight="0.33"></LinearLayout>
+
+	<LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="45dp"
+	        android:orientation="horizontal"
+            android:weightSum="1">
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="0.14"
+			android:textSize="16sp"
+			android:text="@string/avg_alpha_label"
+			android:id="@+id/textView"
+			android:textColor="#ffffff" />
+
+		<TextView
+                android:id="@+id/avg_alpha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="@string/init_val"
+                android:layout_weight="0.14"
+			android:textColor="#ffffff" />
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="0.14"
+			android:textSize="16sp"
+			android:text="@string/avg_beta_label"
+			android:id="@+id/textView2"
+			android:textColor="#ffffff" />
+
+		<TextView
+                android:id="@+id/avg_beta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="@string/init_val"
+                android:layout_weight="0.04"
+			android:textColor="#ffffff" />
+
+	</LinearLayout>
+
+</LinearLayout>

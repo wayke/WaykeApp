@@ -1,0 +1,944 @@
+[
+    {
+        "outputFile": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 11,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endLine": 14,
+                        "endColumn": 11,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endLine": 19,
+                        "endColumn": 11,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 33,
+                    "endColumn": 11,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endLine": 35,
+                        "endColumn": 11,
+                        "endOffset": 1637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endLine": 38,
+                    "endColumn": 11,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1642,
+                        "endLine": 40,
+                        "endColumn": 11,
+                        "endOffset": 1834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1839,
+                        "endLine": 45,
+                        "endColumn": 11,
+                        "endOffset": 2039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endLine": 54,
+                    "endColumn": 11,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2044,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 2502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endLine": 59,
+                    "endColumn": 11,
+                    "endOffset": 2546
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2507,
+                        "endLine": 61,
+                        "endColumn": 11,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2551,
+                    "endLine": 64,
+                    "endColumn": 11,
+                    "endOffset": 2743
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endLine": 66,
+                        "endColumn": 11,
+                        "endOffset": 2892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2748,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2897,
+                        "endLine": 71,
+                        "endColumn": 11,
+                        "endOffset": 3088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endLine": 77,
+                    "endColumn": 11,
+                    "endOffset": 3320
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3093,
+                        "endLine": 79,
+                        "endColumn": 11,
+                        "endOffset": 3469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3325,
+                    "endLine": 85,
+                    "endColumn": 11,
+                    "endOffset": 3701
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3474,
+                        "endLine": 87,
+                        "endColumn": 11,
+                        "endOffset": 3850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3706,
+                    "endLine": 90,
+                    "endColumn": 11,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3855,
+                        "endLine": 92,
+                        "endColumn": 11,
+                        "endOffset": 4042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endLine": 101,
+                    "endColumn": 11,
+                    "endOffset": 4360
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4047,
+                        "endLine": 103,
+                        "endColumn": 11,
+                        "endOffset": 4509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4365,
+                    "endLine": 106,
+                    "endColumn": 11,
+                    "endOffset": 4557
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4514,
+                        "endLine": 108,
+                        "endColumn": 11,
+                        "endOffset": 4706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4562,
+                    "endLine": 114,
+                    "endColumn": 11,
+                    "endOffset": 4942
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4711,
+                        "endLine": 116,
+                        "endColumn": 11,
+                        "endOffset": 5091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4947,
+                    "endLine": 122,
+                    "endColumn": 11,
+                    "endOffset": 5327
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 5096,
+                        "endLine": 124,
+                        "endColumn": 11,
+                        "endOffset": 5476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5332,
+                    "endLine": 127,
+                    "endColumn": 11,
+                    "endOffset": 5523
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5481,
+                        "endLine": 129,
+                        "endColumn": 11,
+                        "endOffset": 5672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5528,
+                    "endLine": 132,
+                    "endColumn": 11,
+                    "endOffset": 5727
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5677,
+                        "endLine": 134,
+                        "endColumn": 11,
+                        "endOffset": 5876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5732,
+                    "endLine": 136,
+                    "endColumn": 11,
+                    "endOffset": 5886
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/0.9.6/res/values/values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5881,
+                        "endLine": 138,
+                        "endColumn": 11,
+                        "endOffset": 6035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 10298,
+                    "endColumn": 57,
+                    "endOffset": 10351
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 10356,
+                    "endColumn": 55,
+                    "endOffset": 10407
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 10412,
+                    "endColumn": 53,
+                    "endOffset": 10461
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 53,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 10466,
+                    "endColumn": 52,
+                    "endOffset": 10514
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 52,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 10519,
+                    "endColumn": 42,
+                    "endOffset": 10557
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 42,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 10562,
+                    "endColumn": 51,
+                    "endOffset": 10609
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 51,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 10614,
+                    "endColumn": 54,
+                    "endOffset": 10664
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 54,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 10669,
+                    "endColumn": 52,
+                    "endOffset": 10717
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 52,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 10722,
+                    "endColumn": 43,
+                    "endOffset": 10761
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 43,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 10766,
+                    "endColumn": 49,
+                    "endOffset": 10811
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 49,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 10816,
+                    "endColumn": 37,
+                    "endOffset": 10849
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 37,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 10854,
+                    "endColumn": 41,
+                    "endOffset": 10891
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 41,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 10896,
+                    "endColumn": 52,
+                    "endOffset": 10944
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 52,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 10949,
+                    "endColumn": 38,
+                    "endOffset": 10983
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 38,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 10988,
+                    "endColumn": 40,
+                    "endOffset": 11024
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 40,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 11029,
+                    "endColumn": 56,
+                    "endOffset": 11081
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 56,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 11086,
+                    "endColumn": 50,
+                    "endOffset": 11132
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 50,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 11137,
+                    "endColumn": 48,
+                    "endOffset": 11181
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 48,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 11186,
+                    "endColumn": 60,
+                    "endOffset": 11242
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 60,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 11247,
+                    "endColumn": 66,
+                    "endOffset": 11309
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 66,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 11314,
+                    "endColumn": 38,
+                    "endOffset": 11348
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 38,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 11353,
+                    "endColumn": 43,
+                    "endOffset": 11392
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 43,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 11397,
+                    "endColumn": 53,
+                    "endOffset": 11446
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 53,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 11451,
+                    "endColumn": 45,
+                    "endOffset": 11492
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 45,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 11497,
+                    "endColumn": 44,
+                    "endOffset": 11537
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 44,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 11542,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 11828
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 11833,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 11988
+                },
+                "from": {
+                    "file": "/home/jinalex/Development/Android/TestLibMuseAndroid/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

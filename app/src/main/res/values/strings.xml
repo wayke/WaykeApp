@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notification_title">Caught You Slipping</string>
+    <string name="notification_text">Wake Up Please</string>
+    <string name="app_name">Wayke</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="status">Connection Status:</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="refresh">Refresh</string>
+    <string name="init_val">0.0</string>
+    <string name="init_int">0</string>
+    <string name="eeg">EEG data:</string>
+    <string name="accel">Accelerometer Data:</string>
+    <string name="version">Version:</string>
+    <string name="undefined">unknown</string>
+    <string name="artifacts">Blinks, Jaw: </string>
+    <string name="msg_count">Msg number, size: </string>
+    <string name="pause">[][]</string>
+    <string name="drop">Drop</string>
+    <string name="muse_elem_alpha">Alpha:</string>
+    <string name="muse_elem_beta">Beta:</string>
+    <string name="avg_alpha_label">Alpha Avg:</string>
+    <string name="avg_beta_label">Beta Avg:</string>
+
+
+</resources>
